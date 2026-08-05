@@ -1,0 +1,33 @@
+{
+  "prefix": ">",
+  "clientId": "1496716284933705781",
+  "ownerIds": ["1518648728804790482", "1470650507642273967"],
+  "embedColor": "#8A2BE2",
+  "maxVolume": 10000,
+  "defaultVolume": 100,
+  "lavalink": {
+    "nodes": [
+      {
+        "id": "nyxbot-sg1",
+        "host": "sg1-nodelink.nyxbot.app",
+        "port": 3000,
+        "authorization": "nyxbot.app/support",
+        "secure": false
+      },
+      {
+        "id": "nyxbot-sg2",
+        "host": "sg2-nodelink.nyxbot.app",
+        "port": 3000,
+        "authorization": "nyxbot.app/support",
+        "secure": false
+      },
+      {
+        "id": "jirayu",
+        "host": "lavalink.jirayu.net",
+        "port": 13592,
+        "authorization": "youshallnotpass",
+        "secure": false
+      }
+    ]
+  }
+}

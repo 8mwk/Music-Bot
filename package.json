@@ -1,0 +1,17 @@
+{
+  "name": "unique-music-bot",
+  "version": "1.0.0",
+  "description": "A feature-packed Discord music bot with no-prefix system, owner system, and no database (flat-file storage).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "lavalink-client": "^2.4.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
